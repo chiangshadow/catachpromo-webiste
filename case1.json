@@ -4,7 +4,7 @@
     "title": "Breakfast",
     "author": "jill111",
 	"sizes":["XS", "S", "M", "L", "XL"],
-	"quantities": [1, 2, 3, 4, 5],
+	"quantities": 5,
     "id": 1
   },
   {
@@ -12,7 +12,7 @@
     "title": "Tasty burger",
     "author": "pashminu",
 	"sizes":["XS", "S", "M", "L", "XL"],
-	"quantities": [1, 2, 3, 4, 5],
+	"quantities": 5,
     "id": 2
   },
   {
@@ -20,7 +20,7 @@
     "title": "Camera",
     "author": "Danson67",
 	"sizes":["XS", "S", "M", "L", "XL"],
-	"quantities": [1, 2, 3, 4, 5],
+	"quantities": 5,
     "id": 3
   },
   {
@@ -28,7 +28,7 @@
     "title": "Morning",
     "author": "fancycrave1",
 	"sizes":["XS", "S", "M", "L", "XL"],
-	"quantities": [1, 2, 3, 4, 5],
+	"quantities": 5,
     "id": 4
   },
   {
@@ -36,7 +36,7 @@
     "title": "Hats",
     "author": "Hans",
 	"sizes":["XS", "S", "M", "L", "XL"],
-	"quantities": [1, 2, 3, 4, 5],
+	"quantities": 5,
     "id": 5
   },
   {
@@ -44,7 +44,7 @@
     "title": "Honey",
     "author": "fancycravel",
 	"sizes":["XS", "S", "M", "L", "XL"],
-	"quantities": [1, 2, 3, 4, 5],
+	"quantities": 5,
     "id": 6
   },
   {
@@ -52,7 +52,7 @@
     "title": "Vegetables",
     "author": "jill111",
 	"sizes":["XS", "S", "M", "L", "XL"],
-	"quantities": [1, 2, 3, 4, 5],
+	"quantities": 5,
     "id": 7
   },
   {
@@ -60,7 +60,7 @@
     "title": "Water plant",
     "author": "BkrmadtyaKarki",
 	"sizes":["XS", "S", "M", "L", "XL"],
-	"quantities": [1, 2, 3, 4, 5],
+	"quantities": 5,
     "id": 8
   }
 ]

@@ -1,0 +1,14 @@
+[
+  {
+    "name":"",
+    "title":"",
+    "category":"add_new",
+    "price":0,
+	"sizes":[],
+	"quantities": 0,
+    "description":"",
+    "image":"images/add_new/add_new300.png",
+    "largeImage":"images/add_new/add_new300.png",
+	"id":0
+  }
+]

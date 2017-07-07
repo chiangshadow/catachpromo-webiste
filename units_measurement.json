@@ -1,0 +1,32 @@
+[
+  {
+	"id":1,
+	"name": "woman clothing size"
+    "title":"Size",
+    "data":["XS","S","M","L","XL"],
+  },
+  {
+	"id":2,
+	"name": "man clothing size"
+    "title":"Size",
+    "data":["XS","S","M","L","XL"],
+  },
+  {
+	"id":3,
+	"name": "kid clothing size"
+    "title":"Size",
+    "data":["XS","S","M","L","XL"],
+  },
+  {
+	"id":4,
+	"name": "coffee table"
+    "title":"Size",
+    "data":["40x30x60cm","30x20x50cm","50x40x70cm"],
+  },
+  {
+	"id":5,
+	"name": "bookshelf cube"
+    "title":"Size",
+    "data":["36x36x80cm","36x36x120cm","36x36x160cm"],
+  }
+]

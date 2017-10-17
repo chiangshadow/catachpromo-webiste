@@ -3,6 +3,12 @@
     "name":"Ladies+Modern+Stretch+Full+Zip",
     "title":"Ladies Modern Stretch Full Zip",
     "category":"ladies_outerwear",
+    "units":[
+      {"unitId":1,"size":"XS","price":11.60,"stock":30},
+      {"unitId":2,"size":"S","price":21.60,"stock":20},
+      {"unitId":3,"size":"M","price":31.60,"stock":25},
+      {"unitId":4,"size":"L","price":41.60,"stock":30},
+      {"unitId":5,"size":"XL","price":41.60,"stock":30}],
     "price":41.60,
 	"sizes":["XS", "S", "M", "L", "XL"],
 	"unitId": 1,

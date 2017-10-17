@@ -3,6 +3,12 @@
     "name":"Ladies+Chrome+T-Shirt",
     "title":"Ladies Chrome T-Shirt",
     "category":"ladies_tshirts",
+    "units":[
+      {"unitId":1,"size":"XS","price":7.30,"stock":30},
+      {"unitId":2,"size":"S","price":8.30,"stock":20},
+      {"unitId":3,"size":"M","price":9.30,"stock":25},
+      {"unitId":4,"size":"L","price":13.30,"stock":30},
+      {"unitId":5,"size":"XL","price":13.30,"stock":30}],
     "price":13.30,
 	"sizes":["XS", "S", "M", "L", "XL"],
 	"unitId": 1,
